@@ -6,7 +6,7 @@ Configure Terraform Autopilot cluster
 
 gcloud container clusters create-auto tekton1 \
     --region=us-central-1 \
-    --project=end-to-end-demo-v1
+    --project=end-to-end-demo-v1 
 
 Verify the cluster
 
