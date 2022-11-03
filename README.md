@@ -1,5 +1,5 @@
 # tekton-ex-demo
-Demo Repo for creation and installation of Tekton on GCP
+## Demo Repo for creation and installation of Tekton on GCP
 
 
 Configure Terraform Autopilot cluster
